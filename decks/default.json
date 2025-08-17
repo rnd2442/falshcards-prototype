@@ -1,0 +1,17 @@
+{
+  "title": "My Deck",
+  "cards": [
+    {
+      "id": "d93f96d2-7323-452b-8fa3-b35510cf19b4",
+      "front": "Test",
+      "back": "Result",
+      "updatedAt": "2025-08-17T18:43:46.715Z"
+    },
+    {
+      "id": "c310065c-ce86-4f20-aec2-8ffd57361641",
+      "front": "Q: What is this?",
+      "back": "A: A GitHub-backed flashcards prototype.",
+      "updatedAt": "2025-08-17T18:43:06.526Z"
+    }
+  ]
+}
